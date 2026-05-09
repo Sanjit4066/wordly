@@ -2,6 +2,14 @@
 
 A refined digital companion for expanding your linguistic repertoire and mastering the nuance of language. **Wordly** combines spaced repetition, contextual learning, and AI-powered insights to transform your vocabulary journey.
 
+![Wordly Screenshots](./screenshots/practice.svg)
+
+## 📸 App Screenshots
+
+| Home & Practice | Word Detail | Daily Discovery |
+| --- | --- | --- |
+| ![Practice screen](./screenshots/practice.svg) | ![Word detail screen](./screenshots/word-detail.svg) | ![Daily word screen](./screenshots/daily-word.svg) |
+
 ## ✨ Key Features
 
 ### 🎯 **Curated Growth**

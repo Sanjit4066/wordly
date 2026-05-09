@@ -1,0 +1,12 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="40" fill="#fef9f4" />
+  <rect x="40" y="40" width="1200" height="80" rx="20" fill="#fff" stroke="#e2d8d1" stroke-width="2" />
+  <text x="80" y="95" font-family="Inter, sans-serif" font-size="28" fill="#111">Wordly</text>
+  <text x="260" y="95" font-family="Inter, sans-serif" font-size="20" fill="#666">Home&nbsp;&nbsp;Library&nbsp;&nbsp;Practice</text>
+  <text x="80" y="180" font-family="Georgia, serif" font-size="72" fill="#d76b4a">poignant</text>
+  <text x="80" y="260" font-family="Inter, sans-serif" font-size="22" fill="#111">Evoking a keen sense of sadness or regret; sharply affecting the feelings or the senses.</text>
+  <rect x="80" y="320" width="1120" height="300" rx="40" fill="#fff" stroke="#e2d8d1" stroke-width="2" />
+  <text x="110" y="380" font-family="Inter, sans-serif" font-size="18" fill="#d76b4a">Advanced Level</text>
+  <text x="110" y="430" font-family="Georgia, serif" font-size="28" fill="#111">Contentual Sample</text>
+  <text x="110" y="480" font-family="Inter, sans-serif" font-size="18" fill="#666">"The film’s closing scene was so poignant that it left the audience quietly moved long after the credits rolled."</text>
+</svg>
